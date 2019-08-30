@@ -538,7 +538,7 @@ header h1 {
 }
 
 .cd-item-info .cd-price {
-    color: black;
+    color: red;
     position: relative;
     margin-left: 10px;
     -webkit-transition: color .2s;
